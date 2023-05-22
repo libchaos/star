@@ -105,7 +105,7 @@ const startGame = () => {
     100,
     120,
     `pics/Ship${getRandom(1, 6)}.png`,
-    "Star Lover",
+    "Star Star",
   );
   // Création du modèle carré rouge
   myGameArea.start();
